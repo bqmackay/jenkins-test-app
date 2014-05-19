@@ -22,6 +22,6 @@ public class QuickTest extends ActivityInstrumentationTestCase2<MainActivity>{
 
     public void testName() throws Exception {
         SystemClock.sleep(2000);
-        assertTrue(true);
+        assertTrue(false);
     }
 }
